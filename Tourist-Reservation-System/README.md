@@ -1,2 +1,2 @@
 # Tourist-Reservation-System
-File Structure mini Project Written in C++
+File Structure mini Project in C++
